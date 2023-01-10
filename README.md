@@ -1,4 +1,6 @@
-![headergitdark](https://user-images.githubusercontent.com/96199659/210769663-3219b5cf-e49b-4529-a16f-4e9730dc0698.gif)
+<!-- ![headergitdark](https://user-images.githubusercontent.com/96199659/210769663-3219b5cf-e49b-4529-a16f-4e9730dc0698.gif) -->
+![contributions](https://user-images.githubusercontent.com/96199659/211634932-c289da48-916a-41a7-b176-e30a6ae375ef.svg)
+
 
 <!-- ### Hi there 👋 -->
 
